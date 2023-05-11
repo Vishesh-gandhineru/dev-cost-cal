@@ -1,0 +1,23 @@
+*{
+    margin: 0;padding: 0; box-sizing: border-box;
+}
+
+body{
+   background-color:cornsilk;
+}
+
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+input , label , select {
+    display: block;
+}
+
+button, .totle-cost {
+    margin-top: 25px;
+}
